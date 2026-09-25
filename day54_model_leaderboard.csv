@@ -1,0 +1,7 @@
+Model,Accuracy,F1_Score,Training_Time
+Logistic Regression,1.0,1.0,0.0273
+Decision Tree,1.0,1.0,0.0096
+Random Forest,1.0,1.0,0.3628
+KNN,1.0,1.0,0.0126
+SVM,1.0,1.0,0.0123
+XGBoost,1.0,1.0,0.1276
