@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1_Score
+Normal Random Forest,1.0,1.0,1.0,1.0
+Random Forest - Balanced,1.0,1.0,1.0,1.0
+SMOTE + Random Forest,1.0,1.0,1.0,1.0
