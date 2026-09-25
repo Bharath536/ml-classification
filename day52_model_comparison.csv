@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1-Score,Training Time (s)
+Logistic Regression,1.0,1.0,1.0,1.0,0.01018977165222168
+Decision Tree,1.0,1.0,1.0,1.0,0.1155240535736084
+Random Forest,1.0,1.0,1.0,1.0,0.3335103988647461
+KNN,1.0,1.0,1.0,1.0,0.006757497787475586
+SVM,1.0,1.0,1.0,1.0,0.0018115043640136719
